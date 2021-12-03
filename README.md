@@ -12,6 +12,6 @@ This repository contains the statistical analysis of Cryptocurrencies. This was 
 ![2021-12-03 (19)](https://user-images.githubusercontent.com/80514750/144633932-dc6b0bc4-e39b-4142-a410-5751e1130a49.png)
 ![2021-12-03 (20)](https://user-images.githubusercontent.com/80514750/144634022-be11583f-1fef-46b3-bf32-3ab8be70c6df.png)
 # Contributors:
-•	Mahir Mehta
+•	Mahir Mehta <br />
 •	Omkar Kubal
 
