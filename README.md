@@ -9,3 +9,4 @@ This repository contains the statistical analysis of Cryptocurrencies. This was 
 ![2021-12-03 (16)](https://user-images.githubusercontent.com/80514750/144633659-a3ca39c0-18d9-48f8-9701-640c18c67d08.png)
 ![2021-12-03 (17)](https://user-images.githubusercontent.com/80514750/144633743-12a3ed5a-4071-42af-8123-57a2e9616e5e.png)
 ![2021-12-03 (18)](https://user-images.githubusercontent.com/80514750/144633822-c1b4f496-d71a-4bb1-8ef0-388d114c0d29.png)
+![2021-12-03 (19)](https://user-images.githubusercontent.com/80514750/144633932-dc6b0bc4-e39b-4142-a410-5751e1130a49.png)
