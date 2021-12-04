@@ -16,4 +16,4 @@ This repository contains the statistical analysis of Cryptocurrencies. This was 
 **•	Omkar Kubal**
 
 # Acknowledgement
-We would like to thanks Prof. Vaibhav Vasani for the constant guidance and support throughout the coursework.
+We would like to thank our Prof. Vaibhav Vasani for the constant guidance and support throughout the coursework.
